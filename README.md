@@ -32,19 +32,10 @@ Welcome to my GitHub! I am a final-year Computer Science student with a strong f
 
 ---
 
-## 🧑‍💻 Featured Projects
-
-- **[Password Generator Web Component](https://github.com/raaaghavv/password-generator)**
-  - Dynamic password generator built in React.js with adjustable length, symbol/number inclusion, and one-click copy-to-clipboard using Clipboard API.
-- **[E-Commerce Cart Page](https://github.com/raaaghavv/ecommerce-cart-page)**
-  - Fully interactive cart using vanilla JavaScript and localStorage for persistent state across sessions.
-
----
-
 ## 🏆 Certifications
 
-- Complete Web Development Course by Hitesh Choudhary (Udemy)
-- Wipro TalentNext Java Full Stack Certification
+- Complete Web Development Course by Hitesh Choudhary (Udemy) [cetificate](https://drive.google.com/file/d/1oFW8LEKsP5FOfx_sRxhiuXMtU6oeNbUC/view)
+- Wipro TalentNext Java Full Stack Certification [cetificate](https://cert.diceid.com/cid/8jV2945bq8?verify=true)
 
 ---
 
@@ -52,10 +43,5 @@ Welcome to my GitHub! I am a final-year Computer Science student with a strong f
 
 - **Email:** [work.raghav01@gmail.com](mailto:work.raghav01@gmail.com)
 - **LinkedIn:** [linkedin.com/in/raghav-goel01](https://linkedin.com/in/raghav-goel01)
-- **GitHub:** [github.com/raaaghavv](https://github.com/raaaghavv)
 
 ---
-
-<!--
-**raaaghavv/raaaghavv** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
