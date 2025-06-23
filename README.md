@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a final-year Computer Science student with a strong f
 ## 💡 About Me
 
 - 🎓 **Education:** B.Tech in Computer Science and Design, Galgotias College Of Engineering and Technology (2021-2025)
-- 👨‍💻 **Current Role:** Freelance Front-end Developer ([craftyydrafty.in](https://craftyydrafty.in))
+- 👨‍💻 **Current Role:** Freelance Front-end Developer ([craftyydrafty.in](https://www.craftyydrafty.in))
 - 🔍 **Looking for:** Software engineering opportunities focused on efficient web solutions
 - 📊 **Research:** Published on “A Comparative Analysis of CNN and Stacked LSTM Models for Solar Power Generation Forecasting” (Taylor & Francis, CRC Press, 2025)
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! I am a final-year Computer Science student with a strong f
 ## 👨‍💻 Experience
 
 **Freelance Front-end Developer**  
-[craftyydrafty.in](https://craftyydrafty.in) | Jan 2025 – Present  
+[craftyydrafty.in](https://www.craftyydrafty.in) | Jan 2025 – Present  
 - Built a responsive SPA from Figma mockups with a maintainable React component library.
 - Architected smooth navigation using React Router DOM and a responsive sidebar with advanced state management.
 - Improved site performance by ~25% via code-splitting (`React.lazy()`) and image lazy loading.
@@ -34,8 +34,8 @@ Welcome to my GitHub! I am a final-year Computer Science student with a strong f
 
 ## 🏆 Certifications
 
-- Complete Web Development Course by Hitesh Choudhary (Udemy) [cetificate](https://drive.google.com/file/d/1oFW8LEKsP5FOfx_sRxhiuXMtU6oeNbUC/view)
-- Wipro TalentNext Java Full Stack Certification [cetificate](https://cert.diceid.com/cid/8jV2945bq8?verify=true)
+- Complete Web Development Course by Hitesh Choudhary (Udemy) [certificate](https://drive.google.com/file/d/1oFW8LEKsP5FOfx_sRxhiuXMtU6oeNbUC/view)
+- Wipro TalentNext Java Full Stack Certification [certificate](https://cert.diceid.com/cid/8jV2945bq8?verify=true)
 
 ---
 
