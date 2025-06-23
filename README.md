@@ -1,47 +1,52 @@
-# Hi, I'm Raghav Goel 👋
+<h1 align="center">Hi 👋, I'm Raghav Goel</h1>
+<h3 align="center">Software Developer building efficient & scalable web solutions</h3>
 
-Welcome to my GitHub! I am a final-year Computer Science student with a strong foundation in building responsive, component-based applications using React.js. I combine hands-on front-end development experience with research and data analysis skills, and am eager to contribute my problem-solving and optimization abilities to a forward-thinking software engineering team.
+<p align="left">
+I'm a final-year Computer Science student with a strong foundation in building responsive, component-based applications. I combine practical front-end development skills with research experience and enjoy solving problems through code and optimization.
+</p>
 
----
+### 🚀 Quick Highlights
+- 🔭 Freelance Front-end Developer at [craftyydrafty.in](https://www.craftyydrafty.in)
+- 📚 B.Tech in Computer Science and Design @ Galgotias College of Engineering and Technology
+- 📝 Research on CNN and LSTM models for solar power forecasting 
+- 💡 Focused on delivering robust, user-centric web solutions
 
-## 💡 About Me
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
-- 🎓 **Education:** B.Tech in Computer Science and Design, Galgotias College Of Engineering and Technology (2021-2025)
-- 👨‍💻 **Current Role:** Freelance Front-end Developer ([craftyydrafty.in](https://www.craftyydrafty.in))
-- 🔍 **Looking for:** Software engineering opportunities focused on efficient web solutions
-- 📊 **Research:** Published on “A Comparative Analysis of CNN and Stacked LSTM Models for Solar Power Generation Forecasting” (Taylor & Francis, CRC Press, 2025)
+### 🏆 Certifications
+- Complete Web Development Course by Hitesh Choudhary (Udemy) [Certificate](https://drive.google.com/file/d/1oFW8LEKsP5FOfx_sRxhiuXMtU6oeNbUC/view)
+- Wipro TalentNext Java Full Stack Certification [Certificate](https://cert.diceid.com/cid/8jV2945bq8?verify=true)
 
----
-
-## 🛠️ Technical Skills
-
-- **Front-end:** HTML5, CSS3, Tailwind CSS, ReactJS, Figma
-- **Programming Languages:** JavaScript (ES6+), SQL, Bash, C++, Python
-- **Technologies & Tools:** Git, GitHub, MySQL, NodeJS
-
----
-
-## 👨‍💻 Experience
-
-**Freelance Front-end Developer**  
-[craftyydrafty.in](https://www.craftyydrafty.in) | Jan 2025 – Present  
-- Built a responsive SPA from Figma mockups with a maintainable React component library.
-- Architected smooth navigation using React Router DOM and a responsive sidebar with advanced state management.
-- Improved site performance by ~25% via code-splitting (`React.lazy()`) and image lazy loading.
-- Implemented WhatsApp-based call-to-action for seamless client engagement.
-
----
-
-## 🏆 Certifications
-
-- Complete Web Development Course by Hitesh Choudhary (Udemy) [certificate](https://drive.google.com/file/d/1oFW8LEKsP5FOfx_sRxhiuXMtU6oeNbUC/view)
-- Wipro TalentNext Java Full Stack Certification [certificate](https://cert.diceid.com/cid/8jV2945bq8?verify=true)
+### 💫 Research Publication
+- R. Goel, A. Fatima, Abhilasha, and T. Shree, **"A Comparative Analysis of CNN and Stacked LSTM Models for Solar Power Generation Forecasting"** Proceedings of ICRTICC-2025 (To be presented by Taylor & Francis, CRC Press, Aug-Sep 2025)
 
 ---
 
-## 📫 Contact Me
+### 🤝 Connect with me
 
-- **Email:** [work.raghav01@gmail.com](mailto:work.raghav01@gmail.com)
-- **LinkedIn:** [linkedin.com/in/raghav-goel01](https://linkedin.com/in/raghav-goel01)
+<p align="left">
+  <a href="https://linkedin.com/in/raghav-goel01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp; | &nbsp;
+  <a href="mailto:work.raghav01@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="35" width="40"/>
+  </a>
+</p>
 
----
+<!-- <div align="center">-->
+<!--     <img src="https://komarev.com/ghpvc/?username=raaaghavv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
+<!-- </div> -->
+
+<p align="center">⭐️ From <a href="https://github.com/raaaghavv">raaaghavv</a></p>
