@@ -40,6 +40,10 @@ I'm a final-year Computer Science student with a strong foundation in building r
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp; | &nbsp;
+  <a href="https://x.com/raaaghavvvvv?t=SKi0XhzRXyk1IltZme2fgw&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X (Twitter)" height="30" width="40" />
+  </a>
+  &nbsp; | &nbsp;
   <a href="mailto:work.raghav01@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="35" width="40"/>
   </a>
