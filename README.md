@@ -41,7 +41,7 @@ I'm a final-year Computer Science student with a strong foundation in building r
   </a>
   &nbsp; | &nbsp;
   <a href="https://x.com/raaaghavvvvv?t=SKi0XhzRXyk1IltZme2fgw&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X (Twitter)" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28black%29.svg" alt="X (Twitter)" height="30" width="40" />
   </a>
   &nbsp; | &nbsp;
   <a href="mailto:work.raghav01@gmail.com">
