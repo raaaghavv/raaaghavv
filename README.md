@@ -41,7 +41,7 @@ I'm a final-year Computer Science student with a strong foundation in building r
   </a>
   &nbsp; | &nbsp;
   <a href="https://x.com/raaaghavvvvv?t=SKi0XhzRXyk1IltZme2fgw&s=09" target="_blank">
-    <img src"https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" height="30" width="40" />
   </a>
   &nbsp; | &nbsp;
   <a href="mailto:work.raghav01@gmail.com">
