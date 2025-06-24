@@ -44,7 +44,7 @@ I'm a final-year Computer Science student with a strong foundation in building r
     <img src="https://cdn.simpleicons.org/x/ffffff" alt="X (Twitter)" height="30" width="40" />
   </a>
   &nbsp; | &nbsp;
-  <a href="mailto:work.raghav01@gmail.com">
+  <a href="mailto:work.raghav01@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="35" width="40"/>
   </a>
 </p>
